@@ -7,9 +7,9 @@ class ApiVersion
     @default = default
   end
 
-  # check whether version is specificsd or is default
+  # check whether version is specified or is default
   def matches?(request)
-    check_headers(request,headers) || default
+    check_headers(request.headers) || default
   end
 
   private
