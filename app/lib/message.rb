@@ -19,6 +19,7 @@ class Message
     'Unauthorized request'
   end
 
+  # json response message when acount creates successfuly
   def self.account_created
     'Account creates successfully'
   end
