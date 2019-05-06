@@ -1,24 +1,20 @@
-# README
+## Rails_todos_APIについて
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 【プロジェクト概要】 
 
-Things you may want to cover:
+RailsのAPIモードでのTodoアプリの開発。iPhoneアプリからCRUD処理を行うことを最終目標に置いております。
 
-* Ruby version
 
-* System dependencies
+## 【実装内容】 
 
-* Configuration
+・RailsのAPIモードでのTodoアプリの開発
 
-* Database creation
 
-* Database initialization
+## 【技術内容】
 
-* How to run the test suite
+・言語:Swift、Ruby
 
-* Services (job queues, cache servers, search engines, etc.)
+・フレームワーク:Ruby on Rails
 
-* Deployment instructions
+・バージョン管理:Git
 
-* ...
