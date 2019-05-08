@@ -13,6 +13,8 @@ RailsのAPIモードでの認証機能を含んだTodoアプリの開発。iPhon
 
 ・iPhoneアプリからCRUD処理
 
+・JWTを使用したトークン管理の実装
+
 
 ## 【技術内容】
 
